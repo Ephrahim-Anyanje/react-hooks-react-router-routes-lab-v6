@@ -1,0 +1,1 @@
+- [x] Add beforeEach block in src/**tests**/Movie.test.jsx to mock global.fetch and return expected movie data for /movies/1
